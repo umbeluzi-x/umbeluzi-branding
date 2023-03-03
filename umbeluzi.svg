@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512px"
+   height="512px"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="umbeluzi.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6994"
+     pagecolor="#dd4814"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.2973261"
+     inkscape:cx="435.54871"
+     inkscape:cy="433.86706"
+     inkscape:window-width="1868"
+     inkscape:window-height="1097"
+     inkscape:window-x="25"
+     inkscape:window-y="77"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7004" />
+  </sodipodi:namedview>
+  <defs
+     id="defs6989">
+    <color-profile
+       name="Built-in-display"
+       xlink:href="../.local/share/icc/edid-5ff2676aeec7aaafa8c3ae4c3d116419.icc"
+       id="color-profile7008" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FiraGO;-inkscape-font-specification:FiraGO;fill:#ed764d;stroke:#000000"
+       x="428.4704"
+       y="163.90802"
+       id="text278"><tspan
+         sodipodi:role="line"
+         id="tspan276"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:110.481px;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font';fill:#fffff8;fill-opacity:1;stroke:none;stroke-width:1.55733;stroke-dasharray:none;stroke-opacity:1"
+       x="21.701342"
+       y="288.73138"
+       id="text7060-3"><tspan
+         sodipodi:role="line"
+         id="tspan7058-5"
+         x="21.701342"
+         y="288.73138"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FiraGO;-inkscape-font-specification:FiraGO;fill:#fffff8;fill-opacity:1;stroke:none;stroke-width:1.55733;stroke-dasharray:none">Umbeluzi</tspan></text>
+  </g>
+</svg>
